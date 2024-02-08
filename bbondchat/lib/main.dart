@@ -82,10 +82,9 @@ class _ChatScreenState extends State<ChatScreen> {
         title: Text(
           'Bronco Bond DM',
           style: TextStyle(
-            fontSize: 50.0, // Set the font size to 24
-            color: Colors.green[900], // Set the color to dark green
-            fontFamily:
-                'YourCuteFont', // Replace 'YourCuteFont' with the actual font family you want to use
+            fontSize: 50.0,
+            color: Colors.green[900],
+            fontFamily: 'Courier',
           ),
         ),
       ),
